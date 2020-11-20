@@ -7,7 +7,7 @@ Counts words from scraped URL in Flask
 ### First Steps
 
 ```sh
-$ pyvenv-3.5 env
+$ pyvenv-3.6 env
 $ source env/bin/activate
 $ pip install -r requirements.txt
 ```
